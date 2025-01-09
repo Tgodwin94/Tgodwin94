@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler Godwin</h1>
-<h3 align="center">Certified Full Stack Developer with proficiency in Javascript, ReactJS, Python, Flask, SQLAlchemy</h3>
+<h3 align="center">Certified Full Stack Developer with proficiency in Javascript, ReactJS, Python, Flask, SQLAlchemy, REST APIs</h3>
 
 - 🔭 I’m currently working on **improving skills in Javascript and building more websites**
 
